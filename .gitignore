@@ -4,7 +4,7 @@ node_modules/*
 npm-debug.log
 
 # TypeScript
-*.js
+app/**/*.js
 *.map
 *.d.ts
 #
